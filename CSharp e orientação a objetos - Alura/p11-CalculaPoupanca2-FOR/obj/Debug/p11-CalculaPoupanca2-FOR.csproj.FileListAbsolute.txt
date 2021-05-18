@@ -1,0 +1,6 @@
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\p11-CalculaPoupanca2-FOR\bin\Debug\p11-CalculaPoupanca2-FOR.exe.config
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\p11-CalculaPoupanca2-FOR\bin\Debug\p11-CalculaPoupanca2-FOR.exe
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\p11-CalculaPoupanca2-FOR\bin\Debug\p11-CalculaPoupanca2-FOR.pdb
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\p11-CalculaPoupanca2-FOR\obj\Debug\p11-CalculaPoupanca2-FOR.csproj.CoreCompileInputs.cache
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\p11-CalculaPoupanca2-FOR\obj\Debug\p11-CalculaPoupanca2-FOR.exe
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\p11-CalculaPoupanca2-FOR\obj\Debug\p11-CalculaPoupanca2-FOR.pdb

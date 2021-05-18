@@ -1,0 +1,6 @@
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb

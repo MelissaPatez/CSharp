@@ -1,0 +1,7 @@
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\5-CaracteresTexto\bin\Debug\5-CaracteresTexto.exe.config
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\5-CaracteresTexto\bin\Debug\5-CaracteresTexto.exe
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\5-CaracteresTexto\bin\Debug\5-CaracteresTexto.pdb
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\5-CaracteresTexto\obj\Debug\5-CaracteresTexto.csprojAssemblyReference.cache
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\5-CaracteresTexto\obj\Debug\5-CaracteresTexto.csproj.CoreCompileInputs.cache
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\5-CaracteresTexto\obj\Debug\5-CaracteresTexto.exe
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\5-CaracteresTexto\obj\Debug\5-CaracteresTexto.pdb

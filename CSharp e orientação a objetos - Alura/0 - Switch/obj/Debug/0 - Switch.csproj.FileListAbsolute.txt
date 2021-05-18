@@ -1,0 +1,6 @@
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\0 - Switch\bin\Debug\0 - Switch.exe.config
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\0 - Switch\bin\Debug\0 - Switch.exe
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\0 - Switch\bin\Debug\0 - Switch.pdb
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\0 - Switch\obj\Debug\0 - Switch.csproj.CoreCompileInputs.cache
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\0 - Switch\obj\Debug\0 - Switch.exe
+C:\Users\m.patez\Desktop\C#\CSharp e orientação a objetos\0 - Switch\obj\Debug\0 - Switch.pdb
