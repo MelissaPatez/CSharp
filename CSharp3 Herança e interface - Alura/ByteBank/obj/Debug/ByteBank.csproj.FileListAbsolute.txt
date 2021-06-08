@@ -1,0 +1,14 @@
+C:\Users\m.patez\source\repos\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\m.patez\source\repos\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\m.patez\source\repos\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\m.patez\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\m.patez\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\m.patez\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\m.patez\source\repos\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\m.patez\Documents\www\CSharp\CSharp3 Herança e interface - Alura\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\m.patez\Documents\www\CSharp\CSharp3 Herança e interface - Alura\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\m.patez\Documents\www\CSharp\CSharp3 Herança e interface - Alura\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\m.patez\Documents\www\CSharp\CSharp3 Herança e interface - Alura\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\m.patez\Documents\www\CSharp\CSharp3 Herança e interface - Alura\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\m.patez\Documents\www\CSharp\CSharp3 Herança e interface - Alura\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\m.patez\Documents\www\CSharp\CSharp3 Herança e interface - Alura\ByteBank\obj\Debug\ByteBank.pdb
